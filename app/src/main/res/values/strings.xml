@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exam Browser</string>
+    <string name="btn_lanjutkan">Lanjutkan</string>
+    <string name="hint_name">Masukkan IP address/Domain</string>
+    <string name="err_msg_name">Form IP address/Domain tidak boleh kosong</string>
+    <string name="tentang">Tentang</string>
+    <string name="keluar">Keluar</string>
+</resources>
